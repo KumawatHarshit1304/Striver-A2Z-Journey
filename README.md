@@ -8,8 +8,8 @@ Welcome to my repository! This is a log of my progress through the [Striver's A2
 
 | Step | Topic                                                | Problems Solved | Status      |
 | :--: | ---------------------------------------------------- | :-------------: | ----------- |
-| 1    | Learn the Basics                                     |      `0/29`     | ⏳ To-Do     |
-| 2    | Important Sorting Techniques                         |      `0/7`      | ⏳ To-Do     |
+| 1    | Learn the Basics                                     |      `29/29`     | ⏳ Completed     |
+| 2    | Important Sorting Techniques                         |      `7/7`      | ⏳ Completed     |
 | 3    | Solve Problems on Arrays [Easy -> Medium -> Hard]    |      `0/41`     | ⏳ To-Do     |
 | 4    | Binary Search [1D, 2D Arrays, Search Space]          |      `0/22`     | ⏳ To-Do     |
 | 5    | Strings [Basic and Medium]                           |      `0/8`      | ⏳ To-Do     |
