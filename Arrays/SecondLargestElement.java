@@ -1,3 +1,5 @@
+//https://www.naukri.com/code360/problems/second-largest-element-in-the-array_873375?interviewProblemRedirection=true&search=second%20largest&leftPanelTabValue=SUBMISSION
+
 
 public class SecondLargestElement {
 	public static int findSecondLargest(int n, int[] arr) {
