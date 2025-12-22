@@ -1,0 +1,22 @@
+//https://takeuforward.org/plus/dsa/problems/search-in-a-2d-matrix
+
+import java.util.*;
+public class SearchIn2DArray(Sorted) {
+    public static boolean searchElement(int [][]MATRIX, int target) {
+        // Write your code here.
+        int row = 0; int col = MATRIX[0].length-1;
+
+        while (row<MATRIX.length & col>=0){
+            if (MATRIX[row][col] == target){
+                return true;
+            }
+            else if (MATRIX[row][col] > target){
+                col--;
+            }
+            else{
+                row++;
+            }
+        }
+        return false;
+    }
+}
